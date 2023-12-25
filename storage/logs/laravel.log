@@ -1,0 +1,16 @@
+[2023-12-12 14:39:13] local.ERROR: Declaration of App\Http\Resources\ProductCategoryCollection::toArray(Illuminate\Http\Request $request) must be compatible with Illuminate\Http\Resources\Json\ResourceCollection::toArray($request) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Http\\Resources\\ProductCategoryCollection::toArray(Illuminate\\Http\\Request $request) must be compatible with Illuminate\\Http\\Resources\\Json\\ResourceCollection::toArray($request) at D:\\mezut\\web\\latihan6\\app\\Http\\Resources\\ProductCategoryCollection.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2023-12-12 14:40:38] local.ERROR: Declaration of App\Http\Resources\ProductCategoryCollection::toArray(Illuminate\Http\Request $request) must be compatible with Illuminate\Http\Resources\Json\ResourceCollection::toArray($request) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Http\\Resources\\ProductCategoryCollection::toArray(Illuminate\\Http\\Request $request) must be compatible with Illuminate\\Http\\Resources\\Json\\ResourceCollection::toArray($request) at D:\\mezut\\web\\latihan6\\app\\Http\\Resources\\ProductCategoryCollection.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2023-12-12 14:40:48] local.ERROR: Declaration of App\Http\Resources\ProductCategoryCollection::toArray(Illuminate\Http\Request $request) must be compatible with Illuminate\Http\Resources\Json\ResourceCollection::toArray($request) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Http\\Resources\\ProductCategoryCollection::toArray(Illuminate\\Http\\Request $request) must be compatible with Illuminate\\Http\\Resources\\Json\\ResourceCollection::toArray($request) at D:\\mezut\\web\\latihan6\\app\\Http\\Resources\\ProductCategoryCollection.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2023-12-12 14:42:13] local.ERROR: Declaration of App\Http\Resources\ProductCategoryCollection::toArray(Illuminate\Http\Request $request) must be compatible with Illuminate\Http\Resources\Json\ResourceCollection::toArray($request) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Declaration of App\\Http\\Resources\\ProductCategoryCollection::toArray(Illuminate\\Http\\Request $request) must be compatible with Illuminate\\Http\\Resources\\Json\\ResourceCollection::toArray($request) at D:\\mezut\\web\\latihan6\\app\\Http\\Resources\\ProductCategoryCollection.php:15)
+[stacktrace]
+#0 {main}
+"} 
